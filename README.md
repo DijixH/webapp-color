@@ -1,4 +1,4 @@
-# Web App Color image for aarch64
+# Web App Color image for aarch64, ARMv7 & amd64
 
 Web App Color is a website with a colored background. 
 
